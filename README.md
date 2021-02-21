@@ -1,4 +1,4 @@
 # kotlin_tutorial
-kotlin courses
-funtions
-' println
+kotlin courses/n
+## funtions
+- println
